@@ -6,4 +6,4 @@ if len(name) < 3:
 elif len(name)> 20:
     print('Name should be max of 50 characters')
 else:
-    print('Good Name')
+    print('Name looks good!')
